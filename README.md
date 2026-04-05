@@ -78,7 +78,9 @@ Designed for universities seeking to implement AI-driven digital transformation 
 Software Engineering Student  
 
 📧 bsse24002@itu.edu.pk  
-💬 https://wa.me/923269494499?text=Hi%2C%20I%20came%20across%20your%20AI-Based%20Attendance%20System%20UI%2FUX%20project%20and%20found%20it%20very%20interesting.%20Could%20you%20please%20share%20more%20details%20about%20it%3F
+<a href="https://wa.me/923350009431?text=Hi%2C%20I%20came%20across%20your%20AI-Based%20Attendance%20System%20UI%2FUX%20project%20and%20found%20it%20very%20interesting.%20Could%20you%20please%20share%20more%20details%20about%20it%3F" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 
 ---
 
